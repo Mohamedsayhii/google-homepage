@@ -17,6 +17,16 @@ body {
 	padding: 10px;
 }
 
+#Products {
+	background-image: url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
+	background-position: -132px -38px;
+	background-size: 528px 68px;
+	height: 10px;
+	width: 30px;
+	margin-top: 3px;
+	margin-left: 12px;
+}
+
 #Sign-in {
 	margin-left: 5px;
 	background: #4285f4;
